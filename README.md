@@ -14,5 +14,6 @@
   <img align="center" alt="arturpttp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="arturpttp-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="arturpttp-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="arturpttp-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="arturpttp-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/517334221660880907/908178316572377168/ezgif-2-8ced1ea5b417.gif?width=584&height=584">
 </div>
